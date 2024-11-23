@@ -1,0 +1,10 @@
+# Archivos de entorno virtual
+env/
+
+# Archivos generados por Python
+__pycache__/
+
+# Archivos temporales y de sistema
+.DS_Store
+*.db
+*.sqlite3
